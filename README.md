@@ -1,5 +1,4 @@
-# Git Tutorial: 
-## by JFL IT Lab
+# Git Tutorial: by JFL IT Lab
 ### jflitlab@gmail.com
 #### Josim JFL
 ---
